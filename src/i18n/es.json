@@ -1,0 +1,15 @@
+{
+    "login": {
+      "title": "Iniciar sesión",
+      "username": "Nombre de usuario",
+      "password": "Contraseña",
+      "button": "Iniciar sesión"
+    },
+    "signup": {
+      "title": "Registrarse",
+      "username": "Nombre de usuario",
+      "password": "Contraseña",
+      "button": "Registrarse"
+    }
+  }
+  
